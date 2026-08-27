@@ -6,6 +6,8 @@ Tools and scripts for working with AWS, covering both the CLI and the web consol
 
 - `install_aws_cli.py` — detects the host OS (Windows or Linux, plus version/architecture) and installs AWS CLI v2 using AWS's official installer for that platform.
 
+More tools and scripts are in progress and will be added here over time.
+
 ## Requirements
 
 - Python 3.6+
